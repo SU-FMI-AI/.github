@@ -20,7 +20,7 @@ A thesis repository is an **immutable archival record**. It must be initialized 
 
 ### 📁 Required Structure & Files
 - **`documents/`**: Official PDFs (Proposal, Final Thesis, Summaries, Review).
-- **`src/`**: Implementation code with a `requirements.txt` or `environment.yml`.
+- **`src/`**: Implementation source code and dependencies.
 - **`data/`**: Sample datasets or references to Hugging Face.
 - **`artifacts/`**: Defense materials (Presentation), figures, and logs.
 - **`metadata.yaml`**: Mandatory file containing structured bilingual metadata.
