@@ -19,7 +19,7 @@ Welcome! This document outlines the standards for contributing to the SU-FMI-AI 
 A thesis repository is an **immutable archival record**. It must be initialized from `template-thesis` and include:
 
 ### 📁 Required Structure & Files
-- **`documents/`**: Official PDFs (Proposal, Final Thesis, Summaries, Review).
+- **`documents/`**: Official PDFs (Proposal, Final Thesis, Summaries, Review) and any related research papers or publications.
 - **`src/`**: Implementation source code and dependencies.
 - **`data/`**: Sample datasets or references to Hugging Face.
 - **`artifacts/`**: Defense materials (Presentation), figures, and logs.
