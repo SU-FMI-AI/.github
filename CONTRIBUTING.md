@@ -2,7 +2,6 @@
 
 Welcome! This document outlines the standards for contributing to the SU-FMI-AI organization. Our goal is to maintain a professional, reproducible, and long-lasting research archive.
 
----
 
 ## 🏗 Repository Visibility & Naming
 
@@ -12,11 +11,17 @@ Welcome! This document outlines the standards for contributing to the SU-FMI-AI 
     - **Projects:** `<project_name>-<module>` (e.g., `bnr-audio-clean`)
     - **Tools/Libs:** `tool-<name>` or `lib-<name>`
 
----
 
 ## 🎓 Thesis Submission Guidelines (For Students)
 
 A thesis repository is an **immutable archival record**. It must be initialized from `template-thesis` and include:
+
+### 🏷️ Repository Topics (Tags)
+Every repository must be correctly tagged to ensure visibility and automation.
+- **Mandatory Tags:** Use exactly two tags to define the work:
+    - `thesis` (General type)
+    - `thesis-active` (During development) OR `thesis-done` (After successful defense)
+- **Optional Domain Tags:** You are encouraged to add research-specific tags like `nlp`, `computer-vision`, `mlops`, etc.
 
 ### 📁 Required Structure & Files
 - **`documents/`**: Official PDFs (Proposal, Final Thesis, Summaries, Review) and any related research papers or publications.
@@ -29,7 +34,6 @@ A thesis repository is an **immutable archival record**. It must be initialized 
 - **Bilingual Readme:** Every repository must include both `README.md` (EN) and `README.bg.md` (BG).
 - **Demo Videos:** To ensure long-term availability, **do not** use personal links. Submit your recordings (demo and/or setup) to the organization admins to be uploaded to the official **SU-FMI-AI YouTube Brand Account**.
 
----
 
 ## 🚀 Research & Project Workflow
 
@@ -37,7 +41,6 @@ A thesis repository is an **immutable archival record**. It must be initialized 
 - **Lineage:** If a project module builds upon previous thesis work, you **must** reference the original `thesis-` repository in the README.
 - **Large Files:** Avoid committing files larger than 50MB to GitHub. Large datasets and trained models must be hosted on our [Hugging Face Hub](https://huggingface.co/SU-FMI-AI).
 
----
 
 ## ⚖️ Licensing
 
@@ -46,6 +49,6 @@ Every repository must contain a `LICENSE` file.
 2.  **External Partnerships:** Specific licenses (e.g., partner-specific agreements) apply only when explicitly required by a project coordinator.
 3.  **Open Source:** For approved public releases, we support **MIT/Apache-2.0** for code and **CC-BY-SA-4.0** for assets. Consult your supervisor before making any repository public.
 
----
 
+---
 **Questions?** Contact your supervisor or the organization administrators.
