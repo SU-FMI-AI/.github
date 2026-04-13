@@ -21,7 +21,7 @@ To maintain a professional research archive, we follow standardized naming and s
 
 - **Theses:** `thesis-<topic>-<year>-<winter|summer|autumn>` (e.g., `thesis-asr-2026-summer`)
     - *Bilingual academic records including code, docs, and defense materials.*
-- **Projects:** `<project_name>-<module>` (e.g., `bnr-asr-clean`)
+- **Projects:** `<project_name>` (main repo) or `<project_name>-<module>` (e.g., `bnr` or `bnr-asr-clean`)
     - *Active R&D components and collaborative modular systems.*
 - **General Purpose:** `tool-` or `lib-`  
     - *Shared utilities and internal libraries.*
