@@ -19,7 +19,7 @@ Models and datasets are synchronized with our [**Hugging Face Hub**](https://hug
 ### 🛠 Repository Guidelines & Standards
 To maintain a professional research archive, we follow standardized naming and structure:
 
-- **Theses:** `thesis-<topic>-<year>-<month>` (e.g., `thesis-asr-2026-06`)
+- **Theses:** `thesis-<topic>-<year>-<winter|summer|autumn>` (e.g., `thesis-asr-2026-summer`)
     - *Bilingual academic records including code, docs, and defense materials.*
 - **Projects:** `<project_name>-<module>` (e.g., `bnr-asr-clean`)
     - *Active R&D components and collaborative modular systems.*
