@@ -38,4 +38,4 @@ We are open to academic and industry partnerships.
 ---
 
 ### 🔗 External Links
-[**Hugging Face**](https://huggingface.co/SU-FMI-AI) | [**YouTube**](https://www.youtube.com/@SU-FMI-AI) | [**FMI Sofia University**](https://www.fmi.uni-sofia.bg/en)
+[**Hugging Face**](https://huggingface.co/SU-FMI-AI) | [**YouTube**](https://www.youtube.com/@SU-FMI-AI) | [**FMI Sofia University**](https://www.fmi.uni-sofia.bg)
