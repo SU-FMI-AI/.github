@@ -7,7 +7,7 @@ Welcome! This document outlines the standards for contributing to the SU-FMI-AI 
 
 1.  **Privacy First:** By default, **all repositories** (theses and projects) must be created as **Private**. Public release is only permitted after official approval.
 2.  **Naming Convention:**
-    - **Theses:** `thesis-<topic>-<year>-<month>` (e.g., `thesis-asr-2026-06`)
+    - **Theses:** `thesis-<topic>-<year>-<winter|summer|autumn>` (e.g., `thesis-asr-2026-summer`)
     - **Projects:** `<project_name>-<module>` (e.g., `bnr-audio-clean`)
     - **Tools/Libs:** `tool-<name>` or `lib-<name>`
 
