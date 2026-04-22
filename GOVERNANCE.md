@@ -50,6 +50,9 @@ By default, the organization operates on a **Zero Trust** basis. Base permission
 
 ## 👥 Team Definitions
 
+### 🏛️ Admins
+Top-level management (Owners) providing strategic oversight, final security approvals, and cross-institutional coordination.
+
 ### 🛠️ Maintainers
 Core PhD team responsible for global infrastructure, template management, and repository archiving.
 
